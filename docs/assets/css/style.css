@@ -140,7 +140,7 @@ html {
 }
 
 .card-body .profile-header .profil-logo::before {
-  content: "See Profil";
+  content: "VIEW PRPFILE";
   position: absolute;
   right: 0;
   top: 0;
@@ -154,7 +154,7 @@ html {
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  font-size: 0.7rem;
+  font-size: 0.6rem;
   font-weight: 600;
   text-transform: uppercase;
   transition-duration: 0.15s;
